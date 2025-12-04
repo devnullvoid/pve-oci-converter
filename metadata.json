@@ -1,0 +1,5 @@
+{
+  "name": "Proxmox OCI Converter",
+  "description": "A tool to convert Docker run commands and Compose files into Proxmox VE OCI-based LXC containers using the Gemini API for parsing and intelligence.",
+  "requestFramePermissions": []
+}
